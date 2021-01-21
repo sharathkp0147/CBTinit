@@ -1,0 +1,156 @@
+[
+    {
+        "questionId":1,
+        "questionText": "How do you feel today ?",
+        "answerOptions": [
+                       { "answerId":11,"answerText": "Better","healthScore":60},
+                       { "answerId":12,"answerText": "Good","healthScore":80},
+                       { "answerId":13,"answerText": "Bad","healthScore":40},
+                       { "answerId":14,"answerText": "Worst","healthScore":20}
+                         ]
+    },
+    {
+        "questionId":11,
+        "questionText": "Better, have a nice day ?",
+        "answerOptions": [
+                       { "answerId":111,"answerText": "Ok","healthScore":100},
+                       { "answerId":112,"answerText": "Thank you","healthScore":100}
+                         ]
+    },
+    {
+        "questionId":111,
+        "questionText": "Better_ok, Rate the app out of 5 ?",
+        "answerOptions": [
+                       { "answerId":1111,"answerText": "1"},
+                       { "answerId":1112,"answerText": "2"},
+                       { "answerId":1113,"answerText": "3"},
+                       { "answerId":1114,"answerText": "4"},
+                       { "answerId":1115,"answerText": "5"}
+                          ]
+    },
+    {
+      "questionId":112,
+      "questionText": "Better_thank you, Rate the app out of 3 ?",
+      "answerOptions": [
+                     { "answerId":1121,"answerText": "1"},
+                     { "answerId":1122,"answerText": "2"},
+                     { "answerId":1123,"answerText": "3"}
+                       ]
+    },
+    {
+        "questionId":12,
+        "questionText": "Good, have a lovely day?",
+        "answerOptions": [
+                       { "answerId":121,"answerText": "Ok","healthScore":100},
+                       { "answerId":122,"answerText": "Thank you","healthScore":100}
+                         ]
+    },
+    {
+      "questionId":121,
+      "questionText": "Good_ok, Rate the app out of 5 ?",
+      "answerOptions": [
+                     { "answerId":1211,"answerText": "1"},
+                     { "answerId":1212,"answerText": "2"},
+                     { "answerId":1213,"answerText": "3"},
+                     { "answerId":1214,"answerText": "4"},
+                     { "answerId":1215,"answerText": "5"}
+                        ]
+  },
+  {
+    "questionId":122,
+    "questionText": "Good_thank you, Rate the app out of 5 ?",
+    "answerOptions": [
+                   { "answerId":1221,"answerText": "1"},
+                   { "answerId":1222,"answerText": "2"},
+                   { "answerId":1223,"answerText": "3"},
+                   { "answerId":1224,"answerText": "4"},
+                   { "answerId":1225,"answerText": "5"}
+                     ]
+  },
+    {
+        "questionId":13,
+        "questionText": "Bad,what happened ?",
+        "answerOptions": [
+                       { "answerId":131,"answerText": "HeadAche","healthScore":40},
+                       { "answerId":132,"answerText": "Fever","healthScore":60},
+                       { "answerId":133,"answerText": "Back pain","healthScore":20},
+                       { "answerId":134,"answerText": "I Can't disclose","healthScore":10}
+                         ]
+    },
+    {
+      "questionId":131,
+      "questionText": "Bad_headAche, did you eat oily food last night ?",
+      "answerOptions": [
+                     { "answerId":1311,"answerText": "No","healthScore":20},
+                     { "answerId":1312,"answerText": "Yes","healthScore":60}
+                       ]
+    },
+    {
+      "questionId":132,
+      "questionText": "Bad_Fever, do you have more than 90% of body temperature ?",
+      "answerOptions": [
+                     { "answerId":1321,"answerText": "No","healthScore":10},
+                     { "answerId":1322,"answerText": "Yes","healthScore":50}
+                       ]
+    },
+    {
+      "questionId":133,
+      "questionText": "Bad_Back pain, can you stand ?",
+      "answerOptions": [
+                     { "answerId":1331,"answerText": "No","healthScore":20},
+                     { "answerId":1332,"answerText": "Yes","healthScore":50}
+                       ]
+    },
+    {
+      "questionId":134,
+      "questionText": "Bad_Fever, please call the doctor ?",
+      "answerOptions": [
+                     { "answerId":1341,"answerText": "Ok","healthScore":100}
+                       ]
+    },
+
+    {
+        "questionId":14,
+        "questionText": "ok, from what you are suffering ?",
+        "answerOptions": [
+            { "answerId":141,"answerText": "stroke","healthScore":40},
+            { "answerId":142,"answerText": "Heart Attack","healthScore":50},
+            { "answerId":143,"answerText": "C-19","healthScore":30},
+            { "answerId":144,"answerText": "I don't know","healthScore":10},
+            { "answerId":145,"answerText": "I Can't disclose","healthScore":0}
+                         ]
+    },
+    {
+      "questionId":141,
+      "questionText": "Bad_stroke, can you move your body ?",
+      "answerOptions": [
+                     { "answerId":1411,"answerText": "No","healthScore":20},
+                     { "answerId":1412,"answerText": "Yes","healthScore":40}
+                       ]
+    },
+    {
+      "questionId":142,
+      "questionText": "Bad_Heart attack, do you have pain in left side of your body ?",
+      "answerOptions": [
+                     { "answerId":1421,"answerText": "No","healthScore":60},
+                     { "answerId":1422,"answerText": "Yes","healthScore":20}
+                       ]
+    },
+    {
+      "questionId":143,
+      "questionText": "Bad_C-19, did you contacted any one physically ?",
+      "answerOptions": [
+                     { "answerId":1431,"answerText": "No","healthScore":50},
+                     { "answerId":1432,"answerText": "Yes","healthScore":50}
+                       ]
+    },
+    {
+      "questionId":144,
+      "questionText": "Bad_Can't disclose, please call the doctor ?",
+      "answerOptions": [
+                     { "answerId":1441,"answerText": "Ok","healthScore":100}
+                       ]
+    }
+
+   
+]

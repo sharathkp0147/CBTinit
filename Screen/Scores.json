@@ -1,0 +1,14 @@
+[
+    {
+        "scoreCardId":1,
+        "score":60,
+        "date":"12-12-12",
+        "time":"10:10:10"
+    }
+    {
+        "scoreCardId":2,
+        "score":40,
+        "date":"12-12-12",
+        "time":"10:10:10"
+    }
+]
